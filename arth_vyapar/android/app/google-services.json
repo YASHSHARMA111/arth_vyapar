@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60057007916",
+    "project_id": "arthvyapar",
+    "storage_bucket": "arthvyapar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60057007916:android:1c26eb663d527e4335de89",
+        "android_client_info": {
+          "package_name": "com.example.arth_vyapar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60057007916-fuopnv17sums3hnblo395a3nev376buf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPrwINQ-XepD3_rMxkp5eZYIhoCYbP78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60057007916-fuopnv17sums3hnblo395a3nev376buf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
